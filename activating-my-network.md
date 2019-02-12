@@ -1,8 +1,10 @@
-Hi,
+Hi David,
 
 After the adventures of the last few years at SAP Concur I am sensing it is time for the next step in my professional pursuits and new challenges. I am activating my network to find the next great role and I am hoping to get your help!
 
 Along with my resume at https://retrosight.com/charlie-owen-resume.pdf I have posted a mind map at https://retrosight.com/charlie-owen-mind-map.pdf which provides a conversational outline. I think the combination of the two will provide a well rounded view of what I offer and what I’m seeking.
+
+The past 15 years have seen me be quite successful in the Technical Program Management discipline so a Principal or Lead role would be a nice fit. I'm also open to exploring outside the technology sector.
 
 My ask of you:
 
