@@ -1,6 +1,6 @@
 Subject: Looking for my next gig
 
-Hello *<< person >>*,
+Hello << person >>,
 
 After the adventures of the last few years that included a professional sabbatical, exploration of complex human systems, an abundance of freelance work, and teaching in India, it’s time for the next step in my professional pursuits. And to get back to working with a team – which I’ve missed deeply.
 
@@ -15,5 +15,6 @@ My ask of you is two-fold:
 
 Thanks so much and I’m looking forward to connecting soon.
 
-Cheers!  
+Cheers!
+
 Jen
