@@ -8,9 +8,9 @@ To that end, I am activating my network to find the next great role and I am hop
 
 My desire is to continue working with teams as they transform the way they engage with each other, their work, and their customers. This can look like change readiness/management initives, culture transformation, leadership and team development, or even design and implementation of learning and development programs.
 
-While I'm looking for that next role, I'm also available for freelance and project pased work
+While I'm looking for that next role, I'm also available for freelance and project based work
 
-I’ve attached my resume along with a graphic mind-map of what I’m looking for - I think the combination provides a well-rounded view of what I bring to the table and what I’m looking for.
+I’ve attached my resume along with a graphic mind-map of what I’m looking for - I think the combination provides a well-rounded view of what I bring to the table and what I’m seeking.
 
 My ask:
 
