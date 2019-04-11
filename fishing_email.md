@@ -20,7 +20,3 @@ Thanks so much and I look forward to hearing back from you soon.
 
 All the best,
 Jen
----
-Jen Berg
-jen@jenberg.com
-www.jenberg.com
