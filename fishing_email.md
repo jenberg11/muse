@@ -2,11 +2,11 @@ Dear < person >,
 
 Hi! I'm Jen. I help teams and individuals increase productivity, foster creativity, improve communication, find happiness and pursue excellence by teaching them new ways of thinking, how to brainstorm, prototype, experiment, explore, iterate and convey ideas through written, verbal and demonstrative ways. How? Here are a few specific things I'm known for:
 
-Facilitation & experience design ninja.
-Leadership coach.
-Transition pathfinder & wrangler of chaos.
-Possibility provocateur.
-Illuminator of awesomeness.
+* Facilitation & experience design ninja.
+* Leadership coach.
+* Transition pathfinder & wrangler of chaos.
+* Possibility provocateur.
+* Illuminator of awesomeness.
 
 I would love to talk with you about opportunities for my skills to bring value to your team, or even more broadly, your organization.
 
