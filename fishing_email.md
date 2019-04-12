@@ -21,8 +21,11 @@ I'd like to get on a call with you and Charlie for one hour to discuss the possi
 Yours,
 
 Jen
-
+- - -
 Jen Berg
+
 jen@jenberg.com
+
 www.jenberg.com
+
 206.949.5298
