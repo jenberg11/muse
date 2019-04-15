@@ -13,12 +13,12 @@ I help teams and individuals increase productivity, foster creativity, improve c
 * Brainstorming
 * Prototyping
 * Experimenting
-* Designing - human experience
-* Communication - verbal and nonverbal, written, visual, interpersonal, presentational
+* Designing - Experiences and Events
+* Communication - Verbal and Non-Verbal, Interpersonal, Written, Visual, Presentational
 
 I'd like to get on a call with you and Charlie for one hour to discuss the possibilities further. What time next week works for you?
 
-Yours,
+All the best,
 
 Jen
 - - -
