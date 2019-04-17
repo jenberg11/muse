@@ -52,7 +52,7 @@ I am a driven, ambitious and self-starting founder, program, project and people 
 
 ### Implementation Project Manager, Ocentrix, Seattle, Washington (2001)
 
-* Managed implementation and installation of Ocentrix Dealer Management System for Beta Clients.
+* Managed implementation and installation of Ocentrix Dealer Management System for beta clients.
 * Coordinated purchase, delivery and installation of all hardware and software required for client implementations.
 * Streamlined purchasing process and spearheaded effort to integrate Purchasing with Accounts Payable / Receivable.
 
