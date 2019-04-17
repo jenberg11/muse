@@ -52,17 +52,16 @@ I am a driven, ambitious and self-starting founder, program, project and people 
 
 ### Implementation Project Manager, Ocentrix, Seattle, Washington (2001)
 
-* Managed implementation and installation of Ocentrix Dealer Management System for Beta Clients.
-* Coordinated purchase, delivery and installation of all hardware/software required for client implementations.
-* Streamlined purchasing process and spearheaded effort to integrate Purchasing with Accounts Payable/Accounts Receivable.
+* Managed implementation and installation of Ocentrix Dealer Management System for beta clients.
+* Coordinated purchase, delivery and installation of all hardware and software required for client implementations.
+* Streamlined purchasing process and spearheaded effort to integrate Purchasing with Accounts Payable / Receivable.
 
-### Project Manager, cvs.com (1999 - 2000)
+### Project Manager, CVS.com, Seattle, Washington (1999 - 2000)
 
-* Launched interactive tool that allowed Marketing department to publish promotions directly to the website. 
-* Managed total project lifecycle of multiple concurrent Marketing promotions featured monthly on CVS.com. 
-* Led cross-functional project teams including representatives from Marketing, Editorial, Design, Development, Quality Assurance, Production Services, Business Unit and External Vendors. 
-* Ensured project scope and requirements were integrated into project plans and implemented by project deadline. 
-
+* Launched interactive tool that allowed marketing department to publish promotions directly to the website.
+* Managed total project lifecycle of multiple concurrent marketing promotions featured monthly on CVS.com.
+* Led cross-functional project teams including representatives from marketing, editorial, design, development, quality assurance, production services, business unit and external vendors.
+* Ensured project scope and requirements were integrated into project plans and implemented by project deadline.
 
 ### Education & Professional Certifications
 
