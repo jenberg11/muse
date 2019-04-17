@@ -22,7 +22,7 @@ I am a driven, ambitious and self-starting founder, program, project and people 
 
 * Created a transformative new course teaching user-centered design to technical and non-technical individuals including interpersonal awareness and soft skills resulting in positive employee retention, improved product clarity, stronger team collaboration and deeper individual career satisfaction for clients including Microsoft and Concur.
 * Successfully guided monthly cohorts of 8 people through the course work and diligently followed up with integration activities within their places of business.
-* Taught individual contributors core skills as product experience designers including: vision, objectives, strategy, protoyping, experimentation, rapid iteration and implementation.
+* Taught individual contributors core skills as product experience designers including: vision, objectives, strategy, prototyping, experimentation, rapid iteration and implementation.
 
 ### Manager, Revel Consulting & Foundry, Kirkland, Washington (2015)
 
