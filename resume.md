@@ -50,15 +50,19 @@ I am a driven, ambitious and self-starting founder, program, project and people 
 * Developed Anniversary Sale issue tracking database to streamline tracking and resolution of project implementation issues reducing duplicate work and turn-around time by 30%.
 * Managed the Nordstrom.com in-store checkout project that enabled store employees to shop on behalf of customers on Nordstrom.com from in-store point-of-sale terminals.
 
-### Project Manager, Ocentrix, Seattle, Washington (2001)
+### Implementation Project Manager, Ocentrix, Seattle, Washington (2001)
 
-* 
-* 
+* Managed implementation and installation of Ocentrix Dealer Management System for Beta Clients.
+* Coordinated purchase, delivery and installation of all hardware/software required for client implementations.
+* Streamlined purchasing process and spearheaded effort to integrate Purchasing with Accounts Payable/Accounts Receivable.
 
 ### Project Manager, cvs.com (1999 - 2000)
 
-* 
-* 
+* Launched interactive tool that allowed Marketing department to publish promotions directly to the website. 
+* Managed total project lifecycle of multiple concurrent Marketing promotions featured monthly on CVS.com. 
+* Led cross-functional project teams including representatives from Marketing, Editorial, Design, Development, Quality Assurance, Production Services, Business Unit and External Vendors. 
+* Ensured project scope and requirements were integrated into project plans and implemented by project deadline. 
+
 
 ### Education & Professional Certifications
 
