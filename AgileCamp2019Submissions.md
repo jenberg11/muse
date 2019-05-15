@@ -20,7 +20,8 @@ Approved sessions will receive one complimentary entry to AgileCamp. That means 
 At which AGILECAMP would you like to speak (pick one or many): *
 
 > Portland at Nike Headquarters in Beaverton, OR on September 20, 2019
-> San Francisco at Mission Bay Convention Center on December 6, 2019
+>
+> San Francisco at Mission Bay Convention Center on December 6, 2019 (??)
 
 ## WORKSHOP DETAILS
 ### Name of Workshop (Title) *
@@ -31,46 +32,77 @@ The name of the proposed workshop session; preferably something relative to the 
 ### Summary (Elevator Pitch) *
 A very brief (141 character) summary of the session topic. Think "elevator pitch". What will intrigue someone enough for them to say "I CANNOT miss this session!!". The audience for this section is the Attendee. Please proofread your entry because if you are selected, this summary will be published.
 
-> Walk away with quick activities to Skills to get you unstuck, help you communicate more powerfully, and brainstorm inclusively.
+> Take agility into your everyday! Learn 4 quick and powerful activities to get your team unstuck, help you communicate more powerfully, brainstorm more inclusively.
+
+OR
+
+> Evolve your team’s agility with a few powerful activities that will help them get unstuck, improve communication and collaboration, and brainstorm more inclusively.
 
 ### Description *
 Describe the key points of your session in terms of content by providing more details. What will you be covering? What are the principles? What does the session outline look like? Are there exercises? What is the timing for each section of the workshop? Specific timelines are very helpful. The audience for this section is the Selection Committee.
 
-> Your answer
+> At the heart of the Agile Manifesto is the customer... the humans that we design for. But what about the humans that are creating for the customer. This session will focus on the team of people creating the product and how to expand their ability to create and achieve extraordinary things together.
+
+> Specifically we'll focus on:
+> * how to get the energy moving when things get slow or stuck
+> * skills to help each other listen better and hear more
+> * methods of brainstorming that allow even the quietest voices to be heard
+> * acknowledging the humanity of the team in order to unleash their creative potential
+
+>....... need more stuff... pull from workshop pitch deck...
 
 ### What "category" would your workshop fall into? (pick only one) *
 
-> Business Agility
-Leadership and Culture
-Product Management and Strategy
-Innovation and Design
-Enterprise Agile Practices
-Technical Enablement
+> **Business Agility(??)**
+>
+> Leadership and Culture
+> 
+> Product Management and Strategy
+> 
+> Innovation and Design
+> 
+> Enterprise Agile Practices
+> 
+> Technical Enablement
 
 ### Learning Objectives *
 What are the outcomes and specific take-aways that the attendees will get from your session? What will they be able to do or how will this make their world of work better?
 
-> Your answer
+> Inclusive brainstorming
+> Better listening
+> Creative confidence
+> Power of play
 
 ### Your Presentation History/ Speaking Experience *
 Please provide descriptions of when and where you have presented on this topic in the past. Provide direct links to other references of previous work. Reviewers will take into consideration the presenter's experience in making selection. ***NOTE: Links to a video showing your speaking ability are preferred. Please include links to past videos of your speaking.***
 
+> I have spent the last decade designing and facilitating interactive trainings, workshops, team and leadership offsites that bring people together to learn, develop their capabilities, and accomplish specific goals. This session is a distilled sample of a curriculum that was part of an offering that has been presented in different manifestations to teams at Microsoft, Concur, T-Mobile, and Nordstrom, and Zynga. 
 
 ### Target Audience *
 Primary level of audience understanding and comprehension that your session is intended for.
 
-> All
+> Foundational (less than 3 years)
+> 
+> Advanced (3+ years)
+>
+> **XX All**
 
 ### Workshop Type (maximum 50 minutes) *
 What is the format of your session?
 
->  XXSkill Development Workshop
-Presentation/ Case Study
+> **XX Skill Development Workshop**
+>
+> Presentation/ Case Study
 
 ### "Hands-on" activities for the workshop. *
 Hands-on activities that promote engagement are MANDATORY. Describe the activity and how it applies to the topic of your workshop.
 
-> Your Answer
+> Energy Stoke (Pipecleaner Pipsqueak, 30 Circles, Bear-Hunter-Ninja, Worlds Greatest Fan)
+> Creative Confidence Activity
+> Emotional Check In (RULER)
+> 1-2-4-All Brainstorming
+> Worlds Best/Worst Listener
+
 
 ### Presenter Name(s) & Title(s) *
 First and Last Name of the person(s) presenting.
@@ -87,7 +119,7 @@ First and Last Name of the person(s) presenting.
 
 ### Presenter Biography (keep this 200 words or less) *
 
-> Your answer
+> Jen Berg is an innovation and creative mindset coach, trainer, developer and facilitator.  Through her workshops and her coaching, Jen has helped startups, small businesses, and large multi-national corporations to build their creative confidence, to collaborate powerfully, and to listen to each other and to their clients in new ways. Something awesome about Jen is that she founded an artisanal ice cream sandwich business, and continues to prototype new flavors frequently! More about Jen: http://www.jenberg.com/
 
 ### Your contact number (telephone) *
 
