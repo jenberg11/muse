@@ -72,7 +72,7 @@ What are the outcomes and specific take-aways that the attendees will get from y
 ### Your Presentation History/ Speaking Experience *
 Please provide descriptions of when and where you have presented on this topic in the past. Provide direct links to other references of previous work. Reviewers will take into consideration the presenter's experience in making selection. ***NOTE: Links to a video showing your speaking ability are preferred. Please include links to past videos of your speaking.***
 
-> I have spent the last decade designing and facilitating interactive trainings, workshops, team and leadership offsites that bring people together to learn, develop their capabilities, and accomplish specific goals. This session is a distilled sample of a curriculum that was part of an offering that has been presented in different manifestations to teams at Microsoft, Concur, T-Mobile, and Nordstrom, and Zynga. 
+> I have spent the last decade designing and facilitating interactive trainings, workshops, team events, and leadership offsites that bring people together to learn, develop their capabilities, and accomplish specific goals. This session is a distilled sample from team building work at Microsoft, SAP Concur, T-Mobile, Bill & Melinda Gates Foundation, Nordstrom, and Zynga. 
 
 ### Target Audience *
 Primary level of audience understanding and comprehension that your session is intended for.
