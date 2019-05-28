@@ -27,35 +27,30 @@ At which AGILECAMP would you like to speak (pick one or many): *
 ### Name of Workshop (Title) *
 The name of the proposed workshop session; preferably something relative to the conference theme. This is the "hook" that will attract attendees to the session while specific enough to articulate the nature of the workshop. Example: Use a title like “The Fundamentals of Scrum - How to Work in the 21st Century”, not “Great Ways of Working in the 21st Century”. Be specific and concise.
 
-> Evolving Agility.
+> Evolving Agility: Improving the way You Work as a Team.
 
 ### Summary (Elevator Pitch) *
 A very brief (141 character) summary of the session topic. Think "elevator pitch". What will intrigue someone enough for them to say "I CANNOT miss this session!!". The audience for this section is the Attendee. Please proofread your entry because if you are selected, this summary will be published.
 
-> Take agility into your everyday! Learn 4 quick and powerful activities to get your team unstuck, help you communicate more powerfully, brainstorm more inclusively.
+> Take agility into your everyday! Learn 4 quick and powerful activities to get your team unblocked, help you communicate more powerfully, brainstorm more inclusively.
 
-OR
-
-> Evolve your team’s agility with a few powerful activities that will help them get unstuck, improve communication and collaboration, and brainstorm more inclusively.
 
 ### Description *
 Describe the key points of your session in terms of content by providing more details. What will you be covering? What are the principles? What does the session outline look like? Are there exercises? What is the timing for each section of the workshop? Specific timelines are very helpful. The audience for this section is the Selection Committee.
 
-> At the heart of the Agile Manifesto is the customer... the humans that we design for. But what about the humans that are creating for the customer. This session will focus on the team of people creating the product and how to expand their ability to create and achieve extraordinary things together.
+> This session will focus on activities to help teams magnify their collective genius by improving the way they engage with each other.
 
-> Specifically we'll focus on:
-> * how to get the energy moving when things get slow or stuck
-> * skills to help each other listen better and hear more
-> * methods of brainstorming that allow even the quietest voices to be heard
-> * acknowledging the humanity of the team in order to unleash their creative potential
-
->....... need more stuff... pull from workshop pitch deck...
+> Specifically we will focus on:
+> * Stoke (activity): how to get the energy moving when things get slow or stuck (~ 10 min)
+> * Check-In Protocol (activity): acknowledging the humanity of the team in order to unleash their creative potential (~ 15 min)
+> * World's Best/Worst Listening (activity): skills to help each other listen better and hear more (~ 10 min)
+> * 1-2-4-All (activity): a method of brainstorming that allows even the quietest voice to be heard (~ 12 min)
 
 ### What "category" would your workshop fall into? (pick only one) *
 
-> **Business Agility(??)**
+> Business Agility
 >
-> Leadership and Culture
+> **Leadership and Culture**
 > 
 > Product Management and Strategy
 > 
@@ -68,10 +63,11 @@ Describe the key points of your session in terms of content by providing more de
 ### Learning Objectives *
 What are the outcomes and specific take-aways that the attendees will get from your session? What will they be able to do or how will this make their world of work better?
 
-> Inclusive brainstorming
-> Better listening
-> Creative confidence
-> Power of play
+> Learn how invisible assumptions and self imposed rules may limit success and how to uncover them.
+> Understand the impact our attentiveness has on others.
+> Discover the importance of being acknowledged and validated in all situations.
+> Learn a quick and easy brainstorming technique that brings all voices into the convesation.
+
 
 ### Your Presentation History/ Speaking Experience *
 Please provide descriptions of when and where you have presented on this topic in the past. Provide direct links to other references of previous work. Reviewers will take into consideration the presenter's experience in making selection. ***NOTE: Links to a video showing your speaking ability are preferred. Please include links to past videos of your speaking.***
@@ -97,11 +93,13 @@ What is the format of your session?
 ### "Hands-on" activities for the workshop. *
 Hands-on activities that promote engagement are MANDATORY. Describe the activity and how it applies to the topic of your workshop.
 
-> Energy Stoke (Pipecleaner Pipsqueak, 30 Circles, Bear-Hunter-Ninja, Worlds Greatest Fan)
-> Creative Confidence Activity
-> Emotional Check In (RULER)
-> 1-2-4-All Brainstorming
-> Worlds Best/Worst Listener
+> 30 Circles - An opening exercise to get things moving and help illuminate how simple assumptions can limit productivity.
+>
+> Emotional Check - Taken from Core Protocols, this simple activity is a quick way for a team to acknowledge each other and how our personal experience affects everything that we do - including our demeanor and how we engage with those around us in our professional world.
+>
+> Worlds Best/Worst Listener - How we engage with each other during conversations and meetings can make all the difference how we communicate, how we listen, what we hear, and ultimately how much gets done and how effectively. This activity illustrates very quickly how different ways we listen changes can change the game in an instint,. 
+>
+> 1-2-4-All - most often brainstorming sessions unintentionally set confident and extroverted voices and personalities up for success. This method of brainstorming does a nice job of leveling the playing fleid and creating an opportunity for more voices and ideas to be brought into the conversation.
 
 
 ### Presenter Name(s) & Title(s) *
